@@ -1,5 +1,6 @@
 body {
     padding: 30px;
+    min-width: 1170px;
 }
 
 .preloader {
@@ -109,6 +110,11 @@ body {
 ._plus_minus {
     font-size: 30px;
     margin-left: 110px;
+}
+
+._container {
+    width: 1170px;
+    margin: 0px auto;
 }
 
 #h1_text {
