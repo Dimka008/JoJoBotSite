@@ -76,21 +76,21 @@ body {
 
 
 #_block {
-    height: 70px;
+    height: 120px;
     border-radius: 15px;
     box-shadow: 0 0 10px #000;
     background-color: rgb(100, 99, 99);
 }
 
 #_block_two {
-    height: 400px;
+    height: 440px;
     border-radius: 15px;
     box-shadow: 0 0 10px #000;
     background-color: rgb(100, 99, 99);
 }
 
 #_block_three {
-    height: 400px;
+    height: 200px;
     border-radius: 15px;
     box-shadow: 0 0 10px #000;
     background-color: rgb(100, 99, 99);
